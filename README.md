@@ -12,7 +12,7 @@ I am an aspiring data analyst studying at The Marcy Lab School! I'm particularly
 
 ### Current Project(s)
 
-- [Stock Analysis](https://github.com/ro-the-creator/Shipping-Stocks-Analysis)
+- [Stock Analysis](https://github.com/ro-the-creator/Stocks-Analysis-Project)
 
 ### Past Projects
 
