@@ -12,11 +12,13 @@ I am an aspiring data analyst studying at The Marcy Lab School! I'm particularly
 
 ### Current Project(s)
 
-- [Stock Analysis](https://github.com/ro-the-creator/Stocks-Analysis-Project)
+- [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
+   - Analyzes Stocks and gives a score based on evaluations.
 
 ### Past Projects
 
 - [Disney+ Business Analysis](https://github.com/ro-the-creator/Disney---Streaming-Business-Analysis)
+  - The Marcy Lab School Project, analyzing Disney+ and competing streaming services.
 
   
 <!--
