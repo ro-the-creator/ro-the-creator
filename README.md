@@ -6,13 +6,17 @@ I am an aspiring data analyst studying at The Marcy Lab School! I'm particularly
 
 ### My Info
 
-rolando.mancilla.rojas@gmail.com
+- rolando.mancilla.rojas@gmail.com
 
-[My LinkedIn](https://www.linkedin.com/in/rolandoma33/)
+- [My LinkedIn](https://www.linkedin.com/in/rolandoma33/)
 
-### Data Analytics Projects
+### Current Project(s)
 
-[Disney+ Business Analysis](https://github.com/ro-the-creator/Disney---Streaming-Business-Analysis)
+- [Stock Analysis](https://github.com/ro-the-creator/Shipping-Stocks-Analysis)
+
+### Past Projects
+
+- [Disney+ Business Analysis](https://github.com/ro-the-creator/Disney---Streaming-Business-Analysis)
 
   
 <!--
