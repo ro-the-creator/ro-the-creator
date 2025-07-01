@@ -1,4 +1,4 @@
-## Welcome to Ro's World 🦝
+# Welcome to Ro's World 🦝
 
 <p align="center">
 I am an aspiring data analyst studying at The Marcy Lab School! I'm particularly interested in Business and Finance. If you want to connect, reach out to me via email or on my LinkedIn page below!
@@ -6,22 +6,25 @@ I am an aspiring data analyst studying at The Marcy Lab School! I'm particularly
 
 ![](Ro-logo.png)
 
-### My Info
+## My Info
 
 - rolando.mancilla.rojas@gmail.com
 
 - [My LinkedIn](https://www.linkedin.com/in/rolandoma33/)
 
-### Current Project(s)
+## Current Project(s)
 
 - [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
    - Analyzes Stocks and gives a score based on evaluations.
 
-### Past Projects
+## Past Projects
 
-- [Disney+ Business Analysis](https://github.com/ro-the-creator/Disney---Streaming-Business-Analysis)
-  - The Marcy Lab School Project, analyzing Disney+ and competing streaming services.
+### The Marcy Lab School
+- [Disney+ Business Model Analysis](https://github.com/ro-the-creator/Disney---Streaming-Business-Analysis)
+  - Analyzing Disney+ and competing streaming services.
 
+- [Café Le Marcy Financial Analysis & Insights](https://github.com/ro-the-creator/M1-Project--Cafe-Sales)
+  - Analyzed Café sales dataset, worked in a team to pull insights.
   
 <!--
 **ro-the-creator/ro-the-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
