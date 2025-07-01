@@ -15,8 +15,12 @@ I am an aspiring data analyst studying at The Marcy Lab School! I'm particularly
 ## Current Project(s)
 
 - [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
-   - Analyzes Stocks and gives a score based on evaluations.
+   - Analyzes stock information using yfinance and gives a score based on evaluations.
 
+- [Music Recommendation Project](https://github.com/ro-the-creator/Spotify-Music-Recommendation)
+   - Access to Spotify data using spotipy to curate a tailored playlist based on user listening history.
+
+  
 ## Past Projects
 
 ### The Marcy Lab School
