@@ -1,7 +1,7 @@
 # Welcome to Ro's World 🦝
 
 <p align="center">
-I am an aspiring data analyst studying at The Marcy Lab School! I'm particularly interested in Business and Finance. If you want to connect, reach out to me via email or on my LinkedIn page below!
+I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily stay up-to-date with business and finance, although I am also interested in many other fields. This includes music, literature, geography, and many more. If you'd like to connect, reach out to me via email or on my LinkedIn page below!
 </p>
 
 ![](github-readme.png)
