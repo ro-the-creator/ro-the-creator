@@ -32,6 +32,10 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
 
 - [NYC Emergency Data Analysis](https://github.com/ro-the-creator/M2-Final-Project--NYC-Stakeholders)
    - Analyzed Flu/Pneumonia cases across NYC, created Tableau dashboard, presented to DOHMH stakeholders.
+ 
+### Personal
+- [Flaskr Blog](https://github.com/ro-the-creator/blog-flask-project)
+   - Fullstack. Allows users to register and create blog posts. Created with Flask.
 
 <!--
 **ro-the-creator/ro-the-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
