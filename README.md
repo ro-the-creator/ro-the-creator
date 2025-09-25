@@ -33,9 +33,15 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
 - [NYC Emergency Data Analysis](https://github.com/ro-the-creator/M2-Final-Project--NYC-Stakeholders)
    - Analyzed Flu/Pneumonia cases across NYC, created Tableau dashboard, presented to DOHMH stakeholders.
  
+- [Themepark Analytics](https://github.com/ro-the-creator/M3-Supernova-Analytics)
+   - A look into theme park ticket/park revenue, customer satisfaction, etc. Created/Engineered Star Schema in SQLite.
+ 
 ### Personal
 - [Flaskr Blog](https://github.com/ro-the-creator/blog-flask-project)
    - Fullstack. Allows users to register and create blog posts. Created with Flask.
+ 
+- [MTA Bus Analysis](https://github.com/ro-the-creator/Datathon-MTA-Project)
+   - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Partnered with MTA.
 
 <!--
 **ro-the-creator/ro-the-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
