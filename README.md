@@ -17,9 +17,6 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
 - [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
    - Analyzes stock information using yfinance and gives a score based on evaluations.
 
-- [Music Recommendation Project](https://github.com/ro-the-creator/Spotify-Music-Recommendation)
-   - Access to Spotify data using spotipy to curate a tailored playlist based on user listening history.
-
   
 ## Past Projects
 
@@ -44,6 +41,12 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
    - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Partnered with MTA.
 
 <!--
+
+
+- [Music Recommendation Project](https://github.com/ro-the-creator/Spotify-Music-Recommendation)
+   - Access to Spotify data using spotipy to curate a tailored playlist based on user listening history.
+
+   
 **ro-the-creator/ro-the-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
