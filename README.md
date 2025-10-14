@@ -14,7 +14,7 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
 
 ## Current Project(s)
 
-- [MTA Bus Analysis](https://github.com/ro-the-creator/Datathon-MTA-Project)
+- [MTA: Beyond the Bus](https://github.com/ro-the-creator/Datathon-MTA-Project)
    - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Partnered with MTA.
 
 - [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
