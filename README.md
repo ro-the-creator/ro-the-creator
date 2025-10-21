@@ -35,6 +35,12 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
  
 - [Themepark Analytics](https://github.com/ro-the-creator/M3-Supernova-Analytics)
    - A look into theme park ticket/park revenue, customer satisfaction, etc. Created/Engineered Star Schema in SQLite.
+
+- [Riding the Demand](https://github.com/ro-the-creator/M4-Riding-the-Demand)
+   - extracting stakeholder-ready insights from BikeShare data to inform pricing, promos, staffing, and availability.
+
+- [The Green Link](https://github.com/ro-the-creator/M5-The-Green-Link)
+   - An analysis of LinkNYC's usage, efficiency, and energy consumption. Found strong links to increased carbon footprint.
  
 ### Personal
 - [Flaskr Blog](https://github.com/ro-the-creator/blog-flask-project)
