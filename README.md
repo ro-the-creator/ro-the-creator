@@ -33,9 +33,17 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
 
 ## My Info
 
-- rolando.mancilla.rojas [at] gmail.com
+<div align="center">
 
-- [My LinkedIn](https://www.linkedin.com/in/rolandoma33/)
+**rolando.mancilla.rojas [at] gmail.com**
+
+**[My LinkedIn](https://www.linkedin.com/in/rolandoma33/)**
+
+<br>
+  
+<img src="https://komarev.com/ghpvc/?username=ro-the-creator&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
 
 ## Current Project(s)
 
