@@ -46,38 +46,40 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
 </div>
 
 ## Current Project(s)
-
-- [MTA: Beyond the Bus](https://github.com/ro-the-creator/Datathon-MTA-Project)
-   - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Partnered with MTA.
-
 - [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
    - Analyzes stock information using yfinance and gives a score based on evaluations.
-
   
 ## Past Projects
 
+### Personal
+- [MTA: Beyond the Bus](https://github.com/ro-the-creator/Datathon-MTA-Project)
+   - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Partnered with MTA.
+
+- [Flaskr Blog](https://github.com/ro-the-creator/blog-flask-project)
+   - Fullstack. Allows users to register and create blog posts. Created with Flask.
+
 ### The Marcy Lab School
-- [Disney+ Business Model Analysis](https://github.com/ro-the-creator/Disney---Streaming-Business-Analysis)
-  - Analyzing Disney+ and competing streaming services.
-
-- [Café Le Marcy Financial Analysis & Insights](https://github.com/ro-the-creator/M1-Project--Cafe-Sales)
-  - Analyzed Café sales dataset, worked in a team to pull insights.
-
-- [NYC Emergency Data Analysis](https://github.com/ro-the-creator/M2-Final-Project--NYC-Stakeholders)
-   - Analyzed Flu/Pneumonia cases across NYC, created Tableau dashboard, presented to DOHMH stakeholders.
- 
-- [Themepark Analytics](https://github.com/ro-the-creator/M3-Supernova-Analytics)
-   - A look into theme park ticket/park revenue, customer satisfaction, etc. Created/Engineered Star Schema in SQLite.
-
-- [Riding the Demand](https://github.com/ro-the-creator/M4-Riding-the-Demand)
-   - extracting stakeholder-ready insights from BikeShare data to inform pricing, promos, staffing, and availability.
+- [NYC Government Collision Prevention](https://github.com/ro-the-creator/M6-Government-Collision-Prevention)
+  - Built an internal tool to be used by the DCAS, using machine learning to infer factors of govt. vehicle collisions causing injury/death.
 
 - [The Green Link](https://github.com/ro-the-creator/M5-The-Green-Link)
    - An analysis of LinkNYC's usage, efficiency, and energy consumption. Found strong links to increased carbon footprint.
  
-### Personal
-- [Flaskr Blog](https://github.com/ro-the-creator/blog-flask-project)
-   - Fullstack. Allows users to register and create blog posts. Created with Flask.
+- [Riding the Demand](https://github.com/ro-the-creator/M4-Riding-the-Demand)
+   - extracting stakeholder-ready insights from BikeShare data to inform pricing, promos, staffing, and availability.
+
+- [Themepark Analytics](https://github.com/ro-the-creator/M3-Supernova-Analytics)
+   - A look into theme park ticket/park revenue, customer satisfaction, etc. Created/Engineered Star Schema in SQLite.
+
+- [NYC Emergency Data Analysis](https://github.com/ro-the-creator/M2-Final-Project--NYC-Stakeholders)
+   - Analyzed Flu/Pneumonia cases across NYC, created Tableau dashboard, presented to DOHMH stakeholders.
+
+- [Café Le Marcy Financial Analysis & Insights](https://github.com/ro-the-creator/M1-Project--Cafe-Sales)
+  - Analyzed Café sales dataset, worked in a team to pull insights.
+
+- [Disney+ Business Model Analysis](https://github.com/ro-the-creator/Disney---Streaming-Business-Analysis)
+  - Analyzing Disney+ and competing streaming services.
+
 
 <!--
 
