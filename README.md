@@ -45,15 +45,16 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
 
 </div>
 
-## Current Project(s)
-- [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
-   - Analyzes stock information using yfinance and gives a score based on evaluations.
+<!-- ## Current Project(s) -->
   
 ## Past Projects
 
 ### Personal
 - [MTA: Beyond the Bus](https://github.com/ro-the-creator/Datathon-MTA-Project)
    - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Partnered with MTA.
+
+- [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
+   - Analyzes stock information using yfinance and gives a score based on evaluations.
 
 - [Flaskr Blog](https://github.com/ro-the-creator/blog-flask-project)
    - Fullstack. Allows users to register and create blog posts. Created with Flask.
