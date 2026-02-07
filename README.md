@@ -57,10 +57,15 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
    - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Partnered with MTA.
 
 - [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
-   - Analyzes stock information using yfinance and gives a score based on evaluations.
+   - Analyzes stock information using yfinance and gives a score based on evaluations with a mission to make investing easy for anyone.
 
 - [Flaskr Blog](https://github.com/ro-the-creator/blog-flask-project)
-   - Fullstack. Allows users to register and create blog posts. Created with Flask.
+   - Full-stack. Allows users to register and create blog posts. Created with Flask.
+ 
+- [Stock Ticker Display App](https://github.com/ro-the-creator/Ticker-Scroller-App)
+  - Small, fun project. Takes a CSV and displays its contents in a scrolling LED board-style app.
+
+***
 
 ### The Marcy Lab School
 - [NYC Government Collision Prevention](https://github.com/ro-the-creator/M6-Government-Collision-Prevention)
