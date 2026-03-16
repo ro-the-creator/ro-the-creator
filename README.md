@@ -68,6 +68,9 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
 ***
 
 ### The Marcy Lab School
+- [Shaping College Readiness](https://github.com/ro-the-creator/Shaping-College-Readiness)
+  - 12-week contract. Explored factors driving College & Career Readiness of students across NYC public high schools.
+
 - [NYC Government Collision Prevention](https://github.com/ro-the-creator/M6-Government-Collision-Prevention)
   - Built an internal tool to be used by the DCAS, using machine learning to infer factors of govt. vehicle collisions causing injury/death.
 
