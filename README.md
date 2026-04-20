@@ -1,7 +1,7 @@
 # Welcome to Ro's World 🦝
 
 <p align="center">
-I'm Ro, and I'm a strategist & engineer, certified from The Marcy Lab School! I primarily stay up-to-date with business and finance, although I am also interested in many other fields. This includes music, literature, geography, and many more. If you'd like to connect, reach out to me via email or on my LinkedIn page below!
+I'm Ro, and I'm a Data Strategist & Engineer, certified from The Marcy Lab School! I primarily stay up-to-date with business and finance, although I am also interested in many other fields. This includes music, literature, geography, and many more. If you'd like to connect, reach out to me via email or on my LinkedIn page below!
 </p>
 
 ![](github-readme.png)
@@ -38,9 +38,9 @@ I'm Ro, and I'm a strategist & engineer, certified from The Marcy Lab School! I 
 
 <div align="center">
 
-**rolando.mancilla.rojas [at] gmail.com**
+**rolando.rmr25 [at] gmail.com**
 
-**[My LinkedIn](https://www.linkedin.com/in/rolandoma33/)**
+**[My LinkedIn](https://www.linkedin.com/in/romaro/)**
 
 <br>
   
