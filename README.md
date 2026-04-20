@@ -1,7 +1,7 @@
 # Welcome to Ro's World 🦝
 
 <p align="center">
-I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily stay up-to-date with business and finance, although I am also interested in many other fields. This includes music, literature, geography, and many more. If you'd like to connect, reach out to me via email or on my LinkedIn page below!
+I'm Ro, and I'm a strategist & engineer, certified from The Marcy Lab School! I primarily stay up-to-date with business and finance, although I am also interested in many other fields. This includes music, literature, geography, and many more. If you'd like to connect, reach out to me via email or on my LinkedIn page below!
 </p>
 
 ![](github-readme.png)
@@ -69,28 +69,28 @@ I'm Ro, and I'm a data analyst studying at The Marcy Lab School! I primarily sta
 
 ### The Marcy Lab School
 - [Shaping College Readiness](https://github.com/ro-the-creator/Shaping-College-Readiness)
-  - 12-week contract. Explored factors driving College & Career Readiness of students across NYC public high schools.
+  - 12-week contract. Explored factors driving College & Career Readiness of students across NYC public high schools. Delivered a machine learning model, Tableau dashboard, and slide deck presentation to financial stakeholders.
 
 - [NYC Government Collision Prevention](https://github.com/ro-the-creator/M6-Government-Collision-Prevention)
-  - Built an internal tool to be used by the DCAS, using machine learning to infer factors of govt. vehicle collisions causing injury/death.
+  - Built an internal tool website to be used by the DCAS, using machine learning to infer factors of govt. vehicle collisions causing injury/death.
 
 - [The Green Link](https://github.com/ro-the-creator/M5-The-Green-Link)
-   - An analysis of LinkNYC's usage, efficiency, and energy consumption. Found strong links to increased carbon footprint.
+   - An analysis of LinkNYC's usage, efficiency, and energy consumption using business/marketing analytics. Found strong links to increased carbon footprint.
  
 - [Riding the Demand](https://github.com/ro-the-creator/M4-Riding-the-Demand)
-   - extracting stakeholder-ready insights from BikeShare data to inform pricing, promos, staffing, and availability.
+   - Extracting stakeholder-ready insights from BikeShare data to inform pricing, promos, staffing, and availability using statistical testing and methods.
 
 - [Themepark Analytics](https://github.com/ro-the-creator/M3-Supernova-Analytics)
-   - A look into theme park ticket/park revenue, customer satisfaction, etc. Created/Engineered Star Schema in SQLite.
+   - A look into theme park ticket/park revenue, customer satisfaction, etc. Created/Engineered Star Schema using SQL.
 
 - [NYC Emergency Data Analysis](https://github.com/ro-the-creator/M2-Final-Project--NYC-Stakeholders)
-   - Analyzed Flu/Pneumonia cases across NYC, created Tableau dashboard, presented to DOHMH stakeholders.
+   - Analyzed Flu/Pneumonia cases across NYC, created a Tableau dashboard, and presented to DOHMH stakeholders.
 
 - [Café Le Marcy Financial Analysis & Insights](https://github.com/ro-the-creator/M1-Project--Cafe-Sales)
   - Analyzed Café sales dataset, worked in a team to pull insights.
 
 - [Disney+ Business Model Analysis](https://github.com/ro-the-creator/Disney---Streaming-Business-Analysis)
-  - Analyzing Disney+ and competing streaming services.
+  - 1st analytical project, analyzing Disney+ and competing streaming services.
 
 
 <!--
