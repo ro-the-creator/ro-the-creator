@@ -1,12 +1,19 @@
-# Welcome to Ro's World 🦝
+# `print('hello, world!')`
 
 <p align="center">
-I'm Ro, and I'm a Data Strategist & Engineer, certified from The Marcy Lab School! I primarily stay up-to-date with business and finance, although I am also interested in many other fields. This includes music, literature, geography, and many more. If you'd like to connect, reach out to me via email or on my LinkedIn page below!
+I'm Ro, and I'm a Data Strategist & Engineer, certified from The Marcy Lab School! I primarily stay up-to-date with business and finance, although I am also interested in many other fields. This includes music, literature, geography, and many more. If you'd like to connect, reach out to me via email or on my LinkedIn page below ↓
 </p>
 
+<!-- 
 ![](github-readme.png)
+-->
 
 <div align='center'>
+
+<img width="300" height="300" alt="headshot-square" src="https://github.com/user-attachments/assets/4f9e164f-74a5-464b-92e8-7b683d6c24a9" />
+
+<br>
+<br>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;
@@ -53,11 +60,33 @@ I'm Ro, and I'm a Data Strategist & Engineer, certified from The Marcy Lab Schoo
 ## Past Projects
 
 ### Personal
+- [Hampton Real Estate: Evaluation Prediction Tool](https://realty-prediction.streamlit.app/)
+   - A home evaluation prediction tool, running listing features through an XGBoost model to value NY listings. Demo website presented to Saunders & Associates leadership. 
+
 - [MTA: Beyond the Bus](https://github.com/ro-the-creator/Datathon-MTA-Project)
-   - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Partnered with MTA.
+   - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Hosted by MHC++ and partnered with the Metropolitan Transportation Authority.
+
+***
+
+### The Marcy Lab School
+- [DOE: Shaping College Readiness](https://github.com/ro-the-creator/Shaping-College-Readiness)
+  - 12-week contract. Explored factors driving College & Career Readiness of students across NYC public high schools. Delivered a machine learning model, Tableau dashboard, and slide deck presentation to financial stakeholders.
+
+- [Supernova: Themepark Analytics](https://github.com/ro-the-creator/ThemePark-Capstone)
+   - A look into theme park ticket/park revenue, customer satisfaction, etc. Created/Engineered Star Schema using SQL. SQLite pipeline with automated scripts to clean and validate immutable data source.
+
+- [DCAS: NYC Government Collision Prevention](https://github.com/ro-the-creator/M6-Government-Collision-Prevention)
+  - Built an internal tool website to be used by the NYC Department of Citywide Administrative Services, using machine learning to infer factors of government vehicle collisions causing injury/death.
+
+- [LinkNYC: The Green Link](https://github.com/ro-the-creator/M5-The-Green-Link)
+   - An analysis of LinkNYC's usage, efficiency, and energy consumption using business/marketing analytics (RFM, Funnel, Cohort Analyses). Found strong links to increased carbon footprint.
+
+<!-- 
+
+### Personal
 
 - [Stock Analyzer Project](https://github.com/ro-the-creator/Stocks-Analysis-Project)
-   - Analyzes stock information using yfinance and gives a score based on evaluations with a mission to make investing easy for anyone.
+   - Analyzes stock information using yfinance and gives a score based on evaluations, with a mission to make investing easy for anyone.
 
 - [Flaskr Blog](https://github.com/ro-the-creator/blog-flask-project)
    - Full-stack. Allows users to register and create blog posts. Created with Flask.
@@ -65,17 +94,7 @@ I'm Ro, and I'm a Data Strategist & Engineer, certified from The Marcy Lab Schoo
 - [Stock Ticker Display App](https://github.com/ro-the-creator/Ticker-Scroller-App)
   - Small, fun project. Takes a CSV and displays its contents in a scrolling LED board-style app.
 
-***
-
 ### The Marcy Lab School
-- [Shaping College Readiness](https://github.com/ro-the-creator/Shaping-College-Readiness)
-  - 12-week contract. Explored factors driving College & Career Readiness of students across NYC public high schools. Delivered a machine learning model, Tableau dashboard, and slide deck presentation to financial stakeholders.
-
-- [NYC Government Collision Prevention](https://github.com/ro-the-creator/M6-Government-Collision-Prevention)
-  - Built an internal tool website to be used by the DCAS, using machine learning to infer factors of govt. vehicle collisions causing injury/death.
-
-- [The Green Link](https://github.com/ro-the-creator/M5-The-Green-Link)
-   - An analysis of LinkNYC's usage, efficiency, and energy consumption using business/marketing analytics. Found strong links to increased carbon footprint.
  
 - [Riding the Demand](https://github.com/ro-the-creator/M4-Riding-the-Demand)
    - Extracting stakeholder-ready insights from BikeShare data to inform pricing, promos, staffing, and availability using statistical testing and methods.
@@ -92,6 +111,7 @@ I'm Ro, and I'm a Data Strategist & Engineer, certified from The Marcy Lab Schoo
 - [Disney+ Business Model Analysis](https://github.com/ro-the-creator/Disney---Streaming-Business-Analysis)
   - 1st analytical project, analyzing Disney+ and competing streaming services.
 
+-->
 
 <!--
 
