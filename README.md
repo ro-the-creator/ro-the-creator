@@ -64,7 +64,7 @@ I'm Ro, and I'm a Data Strategist & Engineer, certified from The Marcy Lab Schoo
    - A home evaluation prediction tool, running property features through an XGBoost model to value NY listings. [Demo website](https://realty-prediction.streamlit.app/) presented to Saunders & Associates leadership.
 
 - [MTA: Beyond the Bus](https://github.com/ro-the-creator/Datathon-MTA-Project)
-   - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Hosted by MHC++ and partnered with the Metropolitan Transportation Authority.
+   - 2nd place winning team at Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Hosted by MHC++ and partnered with the Metropolitan Transportation Authority. Presented at the Public Interest Technology (PIT) PopUp at the Oculus WTC.
 
 ***
 
