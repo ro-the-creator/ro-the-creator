@@ -60,8 +60,8 @@ I'm Ro, and I'm a Data Strategist & Engineer, certified from The Marcy Lab Schoo
 ## Past Projects
 
 ### Personal
-- [Hampton Real Estate: Evaluation Prediction Tool](https://realty-prediction.streamlit.app/)
-   - A home evaluation prediction tool, running listing features through an XGBoost model to value NY listings. Demo website presented to Saunders & Associates leadership. 
+- [Hampton Real Estate: Evaluation Prediction Tool](https://github.com/ro-the-creator/realty-price-prediction)
+   - A home evaluation prediction tool, running property features through an XGBoost model to value NY listings. [Demo website](https://realty-prediction.streamlit.app/) presented to Saunders & Associates leadership.
 
 - [MTA: Beyond the Bus](https://github.com/ro-the-creator/Datathon-MTA-Project)
    - Datathon 2025: A spatial, socio-economic analysis of the MTA Bus Automated Camera Enforcement System. Hosted by MHC++ and partnered with the Metropolitan Transportation Authority.
