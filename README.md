@@ -12,48 +12,35 @@ I'm Ro, and I'm a Data Strategist & Engineer, certified from The Marcy Lab Schoo
 
 <img width="300" height="300" alt="headshot-square" src="https://github.com/user-attachments/assets/4f9e164f-74a5-464b-92e8-7b683d6c24a9" />
 
-<br>
-<br>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>&nbsp;
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>&nbsp;
-  <img src="https://img.shields.io/badge/Statsmodels-20A39E?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Statsmodels"/>&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>&nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>&nbsp;
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>&nbsp;
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>&nbsp;
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A28?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>&nbsp;
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"/>&nbsp;
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint"/>&nbsp;
-  <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Access"/>&nbsp;
-  <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white" alt="QuickBooks"/>&nbsp;
-</div>
-
-
-## My Info
-
 <div align="center">
 
-**rolando.rmr25 [at] gmail.com**
 
-**[My LinkedIn](https://www.linkedin.com/in/romaro/)**
+  <a href="mailto:rolando.rmr25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/romaro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
 <br>
   
 <img src="https://komarev.com/ghpvc/?username=ro-the-creator&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
+
+</div>
+
+## Tech Stack
+
+##### The ones I'm confident in, not just exposure...
+
+**Programming/Data Science/Cloud:** Python (Pandas, NumPy, SciPy, SciKit-Learn, PySpark), AWS
+
+**Data Visualization/Databases:** Visualization (Tableau, Power BI, MatPlotLib, Seaborn), DBMS (SQLite, PostgreSQL, Access)
+
+**Tools/Platforms:** Microsoft (Excel/Word/PowerPoint), Scripting (Bash, Shell), Operating Systems (Unix, Linux), Git, Figma
+
 
 <!-- ## Current Project(s) -->
   
